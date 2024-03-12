@@ -1,0 +1,6 @@
+C:\Users\rjwal\source\repos\RSpeedTestClient\RSpeedTest\bin\Debug\RSpeedTest.dll
+C:\Users\rjwal\source\repos\RSpeedTestClient\RSpeedTest\bin\Debug\RSpeedTest.pdb
+C:\Users\rjwal\source\repos\RSpeedTestClient\RSpeedTest\obj\Debug\RSpeedTest.csproj.AssemblyReference.cache
+C:\Users\rjwal\source\repos\RSpeedTestClient\RSpeedTest\obj\Debug\RSpeedTest.csproj.CoreCompileInputs.cache
+C:\Users\rjwal\source\repos\RSpeedTestClient\RSpeedTest\obj\Debug\RSpeedTest.dll
+C:\Users\rjwal\source\repos\RSpeedTestClient\RSpeedTest\obj\Debug\RSpeedTest.pdb

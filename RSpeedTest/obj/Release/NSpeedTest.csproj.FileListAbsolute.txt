@@ -1,0 +1,6 @@
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest\bin\Release\NSpeedTest.dll
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest\bin\Release\NSpeedTest.pdb
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest\obj\Release\NSpeedTest.csproj.AssemblyReference.cache
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest\obj\Release\NSpeedTest.csproj.CoreCompileInputs.cache
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest\obj\Release\NSpeedTest.dll
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest\obj\Release\NSpeedTest.pdb

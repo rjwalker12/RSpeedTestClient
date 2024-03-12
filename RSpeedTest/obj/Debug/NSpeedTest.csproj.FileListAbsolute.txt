@@ -1,0 +1,12 @@
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest\bin\Debug\NSpeedTest.dll
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest\bin\Debug\NSpeedTest.pdb
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest\obj\Debug\NSpeedTest.csproj.AssemblyReference.cache
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest\obj\Debug\NSpeedTest.csproj.CoreCompileInputs.cache
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest\obj\Debug\NSpeedTest.dll
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest\obj\Debug\NSpeedTest.pdb
+C:\Users\rjwal\Source\Repos\RSpeedTestClient\NSpeedTest\bin\Debug\NSpeedTest.dll
+C:\Users\rjwal\Source\Repos\RSpeedTestClient\NSpeedTest\bin\Debug\NSpeedTest.pdb
+C:\Users\rjwal\Source\Repos\RSpeedTestClient\NSpeedTest\obj\Debug\NSpeedTest.csproj.AssemblyReference.cache
+C:\Users\rjwal\Source\Repos\RSpeedTestClient\NSpeedTest\obj\Debug\NSpeedTest.csproj.CoreCompileInputs.cache
+C:\Users\rjwal\Source\Repos\RSpeedTestClient\NSpeedTest\obj\Debug\NSpeedTest.dll
+C:\Users\rjwal\Source\Repos\RSpeedTestClient\NSpeedTest\obj\Debug\NSpeedTest.pdb

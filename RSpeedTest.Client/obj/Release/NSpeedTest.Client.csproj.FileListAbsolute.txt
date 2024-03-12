@@ -1,0 +1,10 @@
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest.Client\bin\Release\NSpeedTest.Client.exe.config
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest.Client\bin\Release\NSpeedTest.Client.exe
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest.Client\bin\Release\NSpeedTest.Client.pdb
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest.Client\bin\Release\NSpeedTest.dll
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest.Client\bin\Release\NSpeedTest.pdb
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest.Client\obj\Release\NSpeedTest.Client.csproj.AssemblyReference.cache
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest.Client\obj\Release\NSpeedTest.Client.csproj.CoreCompileInputs.cache
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest.Client\obj\Release\NSpeedTe.F2B10F91.Up2Date
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest.Client\obj\Release\NSpeedTest.Client.exe
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest.Client\obj\Release\NSpeedTest.Client.pdb

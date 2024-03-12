@@ -1,0 +1,11 @@
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest.Tests\bin\Release\NSpeedTest.Tests.dll
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest.Tests\bin\Release\NSpeedTest.Tests.pdb
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest.Tests\bin\Release\NSpeedTest.dll
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest.Tests\bin\Release\nunit.framework.dll
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest.Tests\bin\Release\NSpeedTest.pdb
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest.Tests\bin\Release\nunit.framework.xml
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest.Tests\obj\Release\NSpeedTest.Tests.csproj.AssemblyReference.cache
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest.Tests\obj\Release\NSpeedTest.Tests.csproj.CoreCompileInputs.cache
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest.Tests\obj\Release\NSpeedTe.B55FBB86.Up2Date
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest.Tests\obj\Release\NSpeedTest.Tests.dll
+C:\Users\rjwal\Source\Repos\NSpeedTest\NSpeedTest.Tests\obj\Release\NSpeedTest.Tests.pdb
