@@ -7,9 +7,10 @@ using System.Net;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-using NSpeedTest.Models;
+using RSpeedTest;
+using RSpeedTest.Models;
 
-namespace NSpeedTest
+namespace RSpeedTest
 {
     public class SpeedTestClient : ISpeedTestClient
     {
@@ -70,7 +71,7 @@ namespace NSpeedTest
                     }
                     finally
                     {
-                        timer.Stop();    
+                        timer.Stop();
                     }
 
                     if (!testString.StartsWith("test=test"))
@@ -90,7 +91,7 @@ namespace NSpeedTest
         public double TestDownloadSpeed(Server server, int simultaniousDownloads = 2, int retryCount = 2)
         {
             var testData = GenerateDownloadUrls(server, retryCount);
-            
+
             return TestSpeed(testData, async (client, url) =>
             {
                 var data = await client.DownloadDataTaskAsync(url).ConfigureAwait(false);
@@ -143,7 +144,7 @@ namespace NSpeedTest
             timer.Stop();
 
             double totalSize = downloadTasks.Sum(task => task.Result);
-            return (totalSize * 8 / 1000) / ((double)timer.ElapsedMilliseconds / 1000);
+            return totalSize * 8 / 1000 / ((double)timer.ElapsedMilliseconds / 1000);
         }
 
         private static IEnumerable<NameValueCollection> GenerateUploadData(int retryCount)
@@ -151,9 +152,9 @@ namespace NSpeedTest
             var random = new Random();
             var result = new List<NameValueCollection>();
 
-            for (var sizeCounter = 1; sizeCounter < MaxUploadSize+1; sizeCounter++)
+            for (var sizeCounter = 1; sizeCounter < MaxUploadSize + 1; sizeCounter++)
             {
-                var size = sizeCounter*200*1024;
+                var size = sizeCounter * 200 * 1024;
                 var builder = new StringBuilder(size);
 
                 for (var i = 0; i < size; ++i)

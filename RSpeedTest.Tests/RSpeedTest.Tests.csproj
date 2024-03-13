@@ -63,7 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CoordinateTests.cs" />
-    <Compile Include="NSpeedTestApiTests.cs" />
+    <Compile Include="RSpeedTestApiTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

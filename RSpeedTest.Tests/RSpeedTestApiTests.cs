@@ -3,10 +3,10 @@ using System.Globalization;
 using System.Linq;
 using NUnit.Framework;
 
-namespace NSpeedTest.Tests
+namespace RSpeedTest.Tests
 {
     [TestFixture]
-    public class NSpeedTestApiTests
+    public class RSpeedTestApiTests
     {
         private SpeedTestClient speedTestClientClient;
 
@@ -32,7 +32,7 @@ namespace NSpeedTest.Tests
         {
             var settings = speedTestClientClient.GetSettings();
 
-            var ignoredIds = settings.ServerConfig.IgnoreIds.Split(new[] {","}, StringSplitOptions.RemoveEmptyEntries);
+            var ignoredIds = settings.ServerConfig.IgnoreIds.Split(new[] { "," }, StringSplitOptions.RemoveEmptyEntries);
 
             var servers = settings.Servers.Where(s => ignoredIds.Contains(s.Id.ToString(CultureInfo.InvariantCulture)));
             Assert.IsEmpty(servers);
@@ -46,7 +46,7 @@ namespace NSpeedTest.Tests
             Console.WriteLine("Latency: {0} ms", latency);
 
             Assert.Greater(latency, 0);
-            Assert.Less(latency, 1000*60*5);
+            Assert.Less(latency, 1000 * 60 * 5);
         }
 
         [Test]
@@ -57,9 +57,6 @@ namespace NSpeedTest.Tests
             var speed = speedTestClientClient.TestDownloadSpeed(settings.Servers.First(), settings.Download.ThreadsPerUrl);
 
             PrintSpeed("Download", speed);
-            Console.WriteLine(settings.Servers.First().Id);
-            Console.WriteLine(settings.Download.ThreadsPerUrl);
-            Console.WriteLine(settings.Servers.First().Url);
             Assert.Greater(speed, 0);
         }
 

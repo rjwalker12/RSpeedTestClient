@@ -1,7 +1,7 @@
-﻿using NSpeedTest.Models;
+﻿using RSpeedTest.Models;
 using NUnit.Framework;
 
-namespace NSpeedTest.Tests
+namespace RSpeedTest.Tests
 {
     [TestFixture]
     public class CoordinateTests

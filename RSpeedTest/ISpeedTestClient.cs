@@ -1,6 +1,6 @@
-﻿using NSpeedTest.Models;
+﻿using RSpeedTest.Models;
 
-namespace NSpeedTest
+namespace RSpeedTest
 {
     public interface ISpeedTestClient
     {

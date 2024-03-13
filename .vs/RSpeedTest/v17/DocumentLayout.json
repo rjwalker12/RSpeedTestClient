@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\rjwal\\source\\repos\\RSpeedTestClient\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1886B34-0DE4-4C16-8073-CC12E7571D58}|RSpeedTest\\RSpeedTest.csproj|c:\\users\\rjwal\\source\\repos\\rspeedtestclient\\rspeedtest\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1886B34-0DE4-4C16-8073-CC12E7571D58}|RSpeedTest\\RSpeedTest.csproj|solutionrelative:rspeedtest\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1886B34-0DE4-4C16-8073-CC12E7571D58}|RSpeedTest\\RSpeedTest.csproj|c:\\users\\rjwal\\source\\repos\\rspeedtestclient\\rspeedtest\\speedtestclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1886B34-0DE4-4C16-8073-CC12E7571D58}|RSpeedTest\\RSpeedTest.csproj|solutionrelative:rspeedtest\\speedtestclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33672FA6-5014-4BA0-B9A8-62CA932701C0}|RSpeedTest.Tests\\RSpeedTest.Tests.csproj|c:\\users\\rjwal\\source\\repos\\rspeedtestclient\\rspeedtest.tests\\rspeedtestapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33672FA6-5014-4BA0-B9A8-62CA932701C0}|RSpeedTest.Tests\\RSpeedTest.Tests.csproj|solutionrelative:rspeedtest.tests\\rspeedtestapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\rjwal\\source\\repos\\RSpeedTestClient\\RSpeedTest\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "RSpeedTest\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\rjwal\\source\\repos\\RSpeedTestClient\\RSpeedTest\\Models\\Client.cs",
+              "RelativeToolTip": "RSpeedTest\\Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T13:46:24.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpeedTestClient.cs",
+              "DocumentMoniker": "C:\\Users\\rjwal\\source\\repos\\RSpeedTestClient\\RSpeedTest\\SpeedTestClient.cs",
+              "RelativeDocumentMoniker": "RSpeedTest\\SpeedTestClient.cs",
+              "ToolTip": "C:\\Users\\rjwal\\source\\repos\\RSpeedTestClient\\RSpeedTest\\SpeedTestClient.cs",
+              "RelativeToolTip": "RSpeedTest\\SpeedTestClient.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T13:44:51.084Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:350743133:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
@@ -30,6 +69,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RSpeedTestApiTests.cs",
+              "DocumentMoniker": "C:\\Users\\rjwal\\source\\repos\\RSpeedTestClient\\RSpeedTest.Tests\\RSpeedTestApiTests.cs",
+              "RelativeDocumentMoniker": "RSpeedTest.Tests\\RSpeedTestApiTests.cs",
+              "ToolTip": "C:\\Users\\rjwal\\source\\repos\\RSpeedTestClient\\RSpeedTest.Tests\\RSpeedTestApiTests.cs",
+              "RelativeToolTip": "RSpeedTest.Tests\\RSpeedTestApiTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T13:42:56.083Z",
+              "EditorCaption": ""
             }
           ]
         }

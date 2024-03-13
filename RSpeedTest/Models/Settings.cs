@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Xml.Serialization;
 
-namespace NSpeedTest.Models
+namespace RSpeedTest.Models
 {
     [XmlRoot("settings")]
     public class Settings

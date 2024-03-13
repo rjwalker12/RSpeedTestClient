@@ -6,7 +6,7 @@ using System.Net.Cache;
 using System.Web;
 using System.Xml.Serialization;
 
-namespace NSpeedTest
+namespace RSpeedTest
 {
     internal class SpeedTestWebClient : WebClient
     {
