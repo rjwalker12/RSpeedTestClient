@@ -182,3 +182,13 @@ Desktop.ini
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
+
+# mycustom
+/RSpeedTest.Client/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/RSpeedTest.Client/obj/Debug/RSpeedTest.Client.csproj.AssemblyReference.cache
+/RSpeedTest.Tests/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/RSpeedTest.Tests/obj/Debug/RSpeedTest.Tests.csproj.AssemblyReference.cache
+/RSpeedTest.Tests/obj/Release/RSpeedTest.Tests.csproj.AssemblyReference.cache
+/.vs/RSpeedTest/FileContentIndex/d530cf10-6782-47eb-996c-359d1a0c5de8.vsidx
+*.vsidx
+/.vs/slnx.sqlite
